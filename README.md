@@ -10,3 +10,5 @@ ECOMMERCE DASHBOARD:
 <img width="1187" height="465" alt="image" src="https://github.com/user-attachments/assets/8a8c27e7-2b25-4844-9e0a-f0d41263428a" />
 HR ATTRITION:
 <img width="1172" height="610" alt="image" src="https://github.com/user-attachments/assets/f21ff1eb-e171-4e8e-b261-5ccbd6d4e2ac" />
+STUDENT INFORMATION DASHBOARD:
+<img width="1627" height="645" alt="image" src="https://github.com/user-attachments/assets/fc0ac2b4-b31e-4516-b8f5-1be03bd7edcf" />
