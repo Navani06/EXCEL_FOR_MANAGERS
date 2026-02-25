@@ -6,3 +6,5 @@ Excel for Managers I & II is a comprehensive Excel project focused on applying f
 The project covers financial functions, data analysis tools, pivot tables, dashboards, regression analysis, what-if scenarios, and VBA automation. It demonstrates practical applications of Excel in investment analysis, tax computation, forecasting, KPI tracking, and business reporting.
 
 This repository highlights hands-on expertise in building dynamic dashboards, performing statistical analysis, automating tasks using macros, and leveraging Excel as a business intelligence tool.
+HR DASHBOARD OUTPUT"
+<img width="1187" height="465" alt="image" src="https://github.com/user-attachments/assets/8a8c27e7-2b25-4844-9e0a-f0d41263428a" />
